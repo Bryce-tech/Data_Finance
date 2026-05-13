@@ -1,0 +1,7 @@
+instrument_id,ticker,asset_class,currency,exchange_region,official_source,expected_frequency,owner_team
+1,AAPL,Equity,USD,US,Yahoo Finance demo,Daily,Market Data
+2,MSFT,Equity,USD,US,Yahoo Finance demo,Daily,Market Data
+3,GLE.PA,Equity,EUR,Europe,Yahoo Finance demo,Daily,Market Data
+4,BNP.PA,Equity,EUR,Europe,Yahoo Finance demo,Daily,Market Data
+5,ACA.PA,Equity,EUR,Europe,Yahoo Finance demo,Daily,Market Data
+6,AIR.PA,Equity,EUR,Europe,Yahoo Finance demo,Daily,Market Data
