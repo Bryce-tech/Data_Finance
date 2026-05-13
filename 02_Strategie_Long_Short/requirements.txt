@@ -1,0 +1,5 @@
+matplotlib
+yfinance
+numpy
+pandas
+yahooquery
