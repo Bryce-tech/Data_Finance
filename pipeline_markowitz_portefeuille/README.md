@@ -13,6 +13,7 @@ Ce projet contient un notebook Python consacré à l'optimisation de portefeuill
 - Simulation Monte Carlo de rendements corrélés.
 - Backtest train/test hors échantillon.
 - Shrinkage de covariance avec Ledoit-Wolf.
+- Clustering et aversion au risque client.
 
 ## Installation Windows
 
